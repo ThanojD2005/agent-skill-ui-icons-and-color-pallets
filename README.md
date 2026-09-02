@@ -29,7 +29,7 @@ To remove the skills:
 ## Install from GitHub repository
 
 ### Install the entire repository
-npx skills add ThanojP377/agent-skill-ui-icons-and-color-pallets
+npx skills add https://github.com/ThanojD2005/agent-skill-ui-icons-and-color-pallets.git
 
 ### Install a specific subfolder skill
-npx skills add https://github.com/ThanojP377/agent-skill-ui-icons-and-color-pallets/tree/main/skills/use-google-font-icons
+npx skills add https://github.com/ThanojD2005/agent-skill-ui-icons-and-color-pallets/tree/main/skills/use-google-font-icons
