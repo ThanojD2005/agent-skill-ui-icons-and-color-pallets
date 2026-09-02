@@ -1,7 +1,7 @@
+---
 name: select-modern-color-pallets
 description: When have requirment to add/use color pallets in the project, use the below options to add the colors in the project
-
-Body:
+---
 
 ### Overview
 Whenever a project requires color selection, styling, or theme tokens, always choose one of the curated **Modern Color Palettes** below. These options are derived from verified modern design palettes on [Coolors.co](./refferences/color.md).

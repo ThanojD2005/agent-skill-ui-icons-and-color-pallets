@@ -1,8 +1,7 @@
+---
 name: use-google-font-icons
-description: When have requirment to add/use icons in the project , use google font icons.
-
-
-Body:
+description: When have requirment to add/use icons in the project, use google font icons.
+---
 
 ### Overview
 Whenever a project requires icons, always use **Google Font Icons** (specifically **Google Material Symbols**). Follow the standard workflow below to discover, integrate, customize, and handle edge cases for icons.
