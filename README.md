@@ -12,9 +12,7 @@ To use the skills, you can use this commands to copy the skill to the .claude/sk
 ![color-pallets4](./skills/select-modern-color-pallets/refferences/04.png)
 ![color-pallets5](./skills/select-modern-color-pallets/refferences/05.png)
 
-### Included google font icons
 
-![icons](./skills/use-google-font-icons/icons.png)
 
 1. Copy the skill to the .claude/skills folder.
 2. Enable the skill in the Claude settings.
